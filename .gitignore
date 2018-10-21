@@ -1,3 +1,3 @@
 .vscode
-/bin
-/drafts
+bin/
+drafts/
