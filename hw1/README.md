@@ -10,12 +10,12 @@ The first implementation of the algorithm was made in Python
 
 ## C++
 
-The C++ implementation was created to provide a solution that is faster when compared to the original
+The C++ implementation was created to provide a solution that is faster when compared to the original. Currently this implementation contains the final solution of the task.
 
 ## Running the solutions
 
-- run ./run.sh [py | cpp] n
+- on the command line run: ./run.sh [py | cpp] n
 
 Where n is the number of frogs looking in one direction and "py" and "cpp" indicate which implementation should be started.
 
-Running this script will start the chosen implementation for input n and record he execution time.
+Running this script will start the chosen implementation for input n and output the execution time.
